@@ -1,0 +1,1 @@
+public class Normal is by default containg main branch.
